@@ -1,4 +1,4 @@
-# APP
+# APP - Feito em conjunto com RocketSeat
 
 GymPass style app.
 
